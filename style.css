@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid maroon;
+  margin-right:0px;
+  margin-left:0px;
+  margin-top: 0px;
+}
